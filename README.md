@@ -201,8 +201,8 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ShanmugaGanesh1999&icon=0&color=1" alt="Visitor Count" />
+  <a href="https://github.com/ShanmugaGanesh1999">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ShanmugaGanesh1999" alt="Visitor Count" />
   </a>
 </p>
 
