@@ -84,7 +84,7 @@ Building an enterprise **Market Data Aggregation Platform** with microservices +
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShanmugaGanesh1999&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ShanmugaGanesh1999&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
