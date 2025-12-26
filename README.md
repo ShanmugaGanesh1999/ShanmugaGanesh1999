@@ -1,40 +1,71 @@
 <h1 align="center">Hi 👋, I'm Shanmuga Ganesh</h1>
-<h3 align="center">
-  Full-Stack Developer with 3+ years of enterprise-level experience, specializing in microservices, agile development, cloud, and AI-driven applications.
-</h3>
+<h3 align="center">Senior Full-Stack Engineer • Java/Spring Boot • Angular • Microservices • AWS • Real-time systems</h3>
 
 <p align="center">
-  <a href="https://github.com/ShanmugaGanesh1999">
-    <img src="https://komarev.com/ghpvc/?username=shanmugaganesh1999&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugaganesh1999" />
-  </a>
+  <a href="mailto:shanmugaganesh1999@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/shanmuga-ganesh/">LinkedIn</a> •
+  <a href="https://shanmugaganesh1999.github.io/Portfolio/">Portfolio</a> •
+  <a href="https://github.com/ShanmugaGanesh1999">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanmugaganesh1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 **I’m currently working on:**
-  - [ISTS](https://github.com/ShanmugaGanesh1999/ISTS_API): A project focused on enhancing system efficiency and scalability.
-  - Developing a new feature for real-time data processing using Kafka.
+I’m a **Full-Stack Engineer with 7+ years** building scalable, enterprise-grade products—strongest in **Java/Spring Boot backend services** and **modern Angular (15+) frontends**, with deep experience in **microservices**, **real-time ingestion**, and **cloud deployment on AWS**.
 
-- 👯 **I’m looking to collaborate on:**
-  - Open-source projects related to microservices and cloud-native applications.
-  - Innovative AI-driven solutions that can benefit from my expertise in system design.
+-  Backend: secure, high-performance **REST APIs**, JWT auth, Spring Security, performance tuning  
+-  Frontend: **Angular** architecture (standalone components, signals, routing, lazy loading), RxJS, state management  
+-  Data + real-time: **PostgreSQL/MySQL/Oracle**, Kafka, Redis, RabbitMQ  
+-  Quality + delivery: JUnit/Mockito, Jest/Karma, Cypress, CI/CD (GitHub Actions/Jenkins), IaC (Terraform)
 
-- 🤝 **I’m looking for help with:**
-  - Optimizing complex systems for better performance and reliability.
-  - Exploring new technologies and tools to enhance development workflows.
+---
 
-- 🌱 **I’m currently learning:**
-  - Advanced System Design Patterns for robust, scalable architectures.
-  - Deepening my knowledge in AI and machine learning to integrate intelligent features into applications.
+## 🔭 Current Role
 
-- 💬 **Ask me about:**
-  - React, Angular, Java, Python, JavaScript/TypeScript and best practices.
-  - Agile methodologies and their implementation in software development.
-  - Cloud services and DevOps practices for efficient deployment and management.
+**Senior Software Engineer @ Musk and Gale (Sep 2024 – Present)**  
+Building an enterprise **Market Data Aggregation Platform** with microservices + real-time pipelines.
 
-- ⚡ **Fun fact:** I love building AI-driven applications and exploring how technology can solve real-world problems!
+**Highlights**
+- Real-time ingestion services with **Kafka + WebSockets + async processing**
+- **Spring Boot + Angular dashboards** for interactive market visualization
+- **PostgreSQL modeling + RBAC/encryption** with Spring Security
+- **AWS ECS Fargate / S3 / RDS / CloudWatch** + Terraform, autoscaling, reliability
+
+---
+
+## 🧩 Career Highlights (Impact)
+
+- Built/optimized real-time ingestion microservices reaching **~1.8M records/hour**
+- Improved UI/API responsiveness and system performance through focused tuning
+- Implemented strong automated testing practices across backend + frontend + E2E
+- Delivered high-reliability systems (event-driven pipelines, resilient retries, CI/CD)
+
+---
+
+## 🧰 Tech Stack (Focused)
+
+**Languages:** Java, TypeScript, JavaScript, Python  
+**Backend:** Spring Boot, Hibernate, REST APIs, WebSockets, JWT, Concurrency/NIO  
+**Frontend:** Angular (15+), React, HTML5, CSS3, RxJS  
+**Data & Messaging:** PostgreSQL, MySQL, Oracle, MongoDB, Redis, Kafka, RabbitMQ  
+**Cloud/DevOps:** AWS (ECS/Fargate, EC2, S3, RDS, Lambda, CloudWatch), Docker, Terraform, GitHub Actions, Jenkins  
+**Testing:** JUnit 5, Mockito, Jest, Karma, Cypress  
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+- **Microservices** + **cloud-native** systems
+- **Real-time pipelines** (Kafka/stream processing)
+- System performance + reliability improvements (profiling, tuning, scaling)
+
+If you have something interesting, message me on LinkedIn or email.
 
 ---
 
