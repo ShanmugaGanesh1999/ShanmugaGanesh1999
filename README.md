@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:shanmugaganesh1999@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/shanmuga-ganesh/">LinkedIn</a> •
-  <a href="https://shanmugaganesh1999.github.io/Portfolio/">Portfolio</a> •
+  <a href="https://shanmugaganesh.dev/">Portfolio</a> •
   <a href="https://github.com/ShanmugaGanesh1999">GitHub</a>
 </p>
 
@@ -53,7 +53,7 @@ Building an enterprise **Market Data Aggregation Platform** with microservices +
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shanmuga.ganesh.94)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shanmuga_ganesh_)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shanmuga_Ganesh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://shanmugaganesh1999.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://shanmugaganesh.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugaganesh1999@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-FF5733.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1YTEEAngdw7WMTr64cPSFSldPt9hesnBt/view?usp=sharing)
 
